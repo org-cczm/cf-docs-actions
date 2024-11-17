@@ -1,2 +1,4 @@
 # cf-docs-actions
-Cloudflare Pages Deploy Docusauras by Github Actions
+Cloudflare Pages Deploy Docusaurus by Github Actions
+
+## Docusaurus
