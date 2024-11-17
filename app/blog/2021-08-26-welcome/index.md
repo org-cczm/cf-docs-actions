@@ -27,3 +27,12 @@ A blog post folder can be convenient to co-locate blog post images:
 The blog supports tags as well!
 
 **And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+
+![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+## 欢迎来到我的博客
+
+这是一个使用 Docusaurus 搭建的博客。我会在这里分享一些技术文章和个人想法。
+
+希望你能在这里找到有用的信息!
+
+
